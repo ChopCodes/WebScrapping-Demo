@@ -1,4 +1,5 @@
 # ChopCodes/WebScrapping-Demo
+#Unfinished Project
 
 This Python script scrapes data from the NASA Exoplanet Catalog website. It uses the Selenium and BeautifulSoup libraries to extract information about exoplanets.
 
